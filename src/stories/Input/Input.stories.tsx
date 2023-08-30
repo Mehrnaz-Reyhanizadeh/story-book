@@ -1,6 +1,5 @@
 import type { Meta, StoryObj,Story  } from '@storybook/react';
 
-import { Button } from './Button';
 import {Input,  InputProps } from './Input';
 import { useState } from 'react';
 // More on how to set up stories at: https://storybook.js.org/docs/react/writing-stories/introduction#default-export
